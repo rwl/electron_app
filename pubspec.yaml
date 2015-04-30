@@ -1,0 +1,10 @@
+name: electron_app
+version: 0.1.0
+author: Richard Lincoln <r.w.lincoln@gmail.com>
+description: A sample Electron application
+homepage: https://github.com/rwl/electron_app
+dependencies:
+  electron: '>=0.0.1 <0.2.0'
+transformers:
+- $dart2js
+- electron
