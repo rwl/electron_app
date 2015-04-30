@@ -2,7 +2,7 @@
 
 An [Electron][] example app written in [Dart][]. Based on the
 [Quick Start](https://github.com/atom/electron/tree/master/docs)
-tutorial. Uses the Dart [electron](https://pub.dartlang.org/electron)
+tutorial. Uses the Dart [electron](https://pub.dartlang.org/packages/electron)
 library.
 
 ## Run
